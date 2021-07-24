@@ -1,2 +1,2 @@
 # simple-website
-Phonetic Alphavet book example
+Phonetic Alphabet book example
